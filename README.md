@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a big container fan :-)
+I like containers, Kubernetes, coffee, and building useful things.
 
-You can find my contributions to the open-source community on our GitHub organization [containeroo](https://github.com/containeroo).
+I'm especially interested in open source and container-related projects. You can find many of my contributions in the [containeroo](https://github.com/containeroo) GitHub organization.
 
-![](https://github-readme-stats.vercel.app/api?username=gi8lino&show_icons=true&count_private=true)
+Also, an important personal fact: I hate corn, but I love popcorn. Weird, but true.
+
+Thanks for stopping by.
